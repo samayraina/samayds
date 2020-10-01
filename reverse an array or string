@@ -1,0 +1,15 @@
+
+Write a program to reverse an array or string
+Last Updated: 08-09-2020
+ 
+
+Given an array (or string), the task is to reverse the array/string.
+Examples : 
+ 
+
+Input  : arr[] = {3, 4, 2}
+Output : arr[] = {2, 4, 3}
+
+
+
+
