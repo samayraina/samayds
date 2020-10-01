@@ -1,0 +1,8 @@
+What DOM is not ?
+
+    The Document Object Model is not a binary description where it does not define any binary source code in its interfaces.
+    The Document Object Model is not used to describe objects in XML or HTML whereas the DOM describes XML and HTML documents as objects.
+    The Document Object Model is not represented by set of data structures; it is an interface which specifies object representation.
+    The Document Object Model does not show criticality of objects in documents i.e it doesn’t have information about which object in document is appropriate to the context and which is not.
+    
+    what are the levels of dom?
