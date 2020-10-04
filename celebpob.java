@@ -42,7 +42,7 @@ public class Main {
     int pot =st.pop();
     for(int i=0; i<arr.length; i++)
 {
-    if(pot==i){
+    if(pot!=i){// the potential should be not equal to becausing we are checking in the same row and same column i.e 2must not be equal to 2
         if(arr[i][pot]==1 || arr[pot][i]==0){
             System.out.println("none");
             return;
