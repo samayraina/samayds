@@ -5,6 +5,19 @@ import java.io.*;
 
 	    public static void main(String[] args) throws Exception {
 //  The following code is giving nzec error find out why its is? giving this error and resolve the issue
+		    // TRied the above code and the error can be due to the input not given 
+		    // and secondly if you face such error again embedded the following block in your code
+		    /*public class Main
+{
+	public static void main(String[] args) throws IOException
+	{
+		try{
+			//Your Solve
+		}catch(Exception e){
+			return;
+		}
+	}
+}*/
 	  Scanner scn = new Scanner(System.in);
         int n=scn.nextInt();
         int[] arr = new int[n];
